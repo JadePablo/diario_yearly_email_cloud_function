@@ -27,7 +27,7 @@ def hello_pubsub(request, context=None):
     """
 
     # MongoDB Atlas connection settings
-    mongodb_uri = 'mongodb+srv://allenjade154:G6KhXePPeYQtPQ9g@cluster0.8jxxf5k.mongodb.net/?retryWrites=true&w=majority'
+    mongodb_uri = 'nonono'
     database_name = 'test'
     collection_name = 'entries'
 
