@@ -3,8 +3,8 @@ import ssl
 import smtplib
 
 def email_sender(email: str, top5s: dict):
-    email_sender = 'literallydiario@gmail.com'
-    email_password = "put your email password here"
+    email_sender = 'email here'
+    email_password = "pw here"
     email_receiver = email
 
     topTopics = top5s['topics_top5']
