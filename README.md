@@ -1,2 +1,3 @@
-# diario_yearly_email_cloud_function
-this sends out yearly emails for diario. and not used to send out phishing emails
+# diario 'yearly highlights' cloud function
+
+This is responsible for the automated process of sending personable data insights to the users of the diario app. enjoy 
